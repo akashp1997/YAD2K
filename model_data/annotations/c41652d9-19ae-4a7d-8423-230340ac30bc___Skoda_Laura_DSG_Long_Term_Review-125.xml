@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/c41652d9-19ae-4a7d-8423-230340ac30bc___Skoda_Laura_DSG_Long_Term_Review-125.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>c41652d9-19ae-4a7d-8423-230340ac30bc___Skoda_Laura_DSG_Long_Term_Review-125.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>389</xmin>
+      <ymin>450</ymin>
+      <xmax>600</xmax>
+      <ymax>509</ymax>
+    </bndbox>
+  </object>
+</annotation>

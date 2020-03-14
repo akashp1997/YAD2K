@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/OUN4297.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>OUN4297.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>519</xmin>
+      <ymin>434</ymin>
+      <xmax>767</xmax>
+      <ymax>514</ymax>
+    </bndbox>
+  </object>
+</annotation>

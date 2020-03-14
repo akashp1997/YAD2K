@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/422aaf6f-dd4a-450f-ac6b-65966ab512d0___1431956d1446017445-number-plates-merchandise-canvas-ink-gurgaon-edit-closed-thumb_img_4418_1024.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>422aaf6f-dd4a-450f-ac6b-65966ab512d0___1431956d1446017445-number-plates-merchandise-canvas-ink-gurgaon-edit-closed-thumb_img_4418_1024.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>288</xmin>
+      <ymin>423</ymin>
+      <xmax>572</xmax>
+      <ymax>496</ymax>
+    </bndbox>
+  </object>
+</annotation>

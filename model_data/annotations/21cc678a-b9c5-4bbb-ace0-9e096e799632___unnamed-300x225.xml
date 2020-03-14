@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/21cc678a-b9c5-4bbb-ace0-9e096e799632___unnamed-300x225.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>21cc678a-b9c5-4bbb-ace0-9e096e799632___unnamed-300x225.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>88</xmin>
+      <ymin>99</ymin>
+      <xmax>136</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+</annotation>

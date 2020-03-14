@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/7c8229d7-7e37-41a6-9262-d5da278c8d8e___139379d1243147524-ok-have-dealers-name-number-plate-1.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>7c8229d7-7e37-41a6-9262-d5da278c8d8e___139379d1243147524-ok-have-dealers-name-number-plate-1.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>262</xmin>
+      <ymin>190</ymin>
+      <xmax>742</xmax>
+      <ymax>393</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/dd58e02d-51a5-4bfd-87af-ff51c576086e___2014-mahindra-scorpio-suv-10.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>dd58e02d-51a5-4bfd-87af-ff51c576086e___2014-mahindra-scorpio-suv-10.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>596</xmin>
+      <ymin>463</ymin>
+      <xmax>887</xmax>
+      <ymax>530</ymax>
+    </bndbox>
+  </object>
+</annotation>

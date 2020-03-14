@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/wts-lg-000164.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>wts-lg-000164.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>843</xmin>
+      <ymin>310</ymin>
+      <xmax>979</xmax>
+      <ymax>378</ymax>
+    </bndbox>
+  </object>
+</annotation>

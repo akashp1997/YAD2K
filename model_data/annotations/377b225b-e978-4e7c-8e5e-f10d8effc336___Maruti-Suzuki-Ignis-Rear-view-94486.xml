@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/377b225b-e978-4e7c-8e5e-f10d8effc336___Maruti-Suzuki-Ignis-Rear-view-94486.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>377b225b-e978-4e7c-8e5e-f10d8effc336___Maruti-Suzuki-Ignis-Rear-view-94486.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>162</xmin>
+      <ymin>227</ymin>
+      <xmax>312</xmax>
+      <ymax>274</ymax>
+    </bndbox>
+  </object>
+</annotation>

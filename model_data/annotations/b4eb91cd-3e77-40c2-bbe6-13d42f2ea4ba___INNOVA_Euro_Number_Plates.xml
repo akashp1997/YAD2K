@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/b4eb91cd-3e77-40c2-bbe6-13d42f2ea4ba___INNOVA_Euro_Number_Plates.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>b4eb91cd-3e77-40c2-bbe6-13d42f2ea4ba___INNOVA_Euro_Number_Plates.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>138</xmin>
+      <ymin>137</ymin>
+      <xmax>378</xmax>
+      <ymax>208</ymax>
+    </bndbox>
+  </object>
+</annotation>

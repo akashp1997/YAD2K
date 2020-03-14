@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/d88b7b9c-a4f4-4af6-af3d-b3017e114e0d___146292-maruti-suzuki-wagon-r-stingray-vxi-ownership-review-dsc_01691.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>d88b7b9c-a4f4-4af6-af3d-b3017e114e0d___146292-maruti-suzuki-wagon-r-stingray-vxi-ownership-review-dsc_01691.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>162</xmin>
+      <ymin>198</ymin>
+      <xmax>431</xmax>
+      <ymax>278</ymax>
+    </bndbox>
+  </object>
+</annotation>

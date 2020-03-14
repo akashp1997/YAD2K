@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/e3f5fe39-d157-49fa-a0c9-b96ca1234a64___bike-scooter-number-plate-frame-rear-500x500.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>e3f5fe39-d157-49fa-a0c9-b96ca1234a64___bike-scooter-number-plate-frame-rear-500x500.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>128</xmin>
+      <ymin>74</ymin>
+      <xmax>361</xmax>
+      <ymax>202</ymax>
+    </bndbox>
+  </object>
+</annotation>

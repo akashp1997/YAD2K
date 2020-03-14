@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/89d26be7-258a-4470-b0fe-d1df57b20d55___new_Skoda-Octavia-5.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>89d26be7-258a-4470-b0fe-d1df57b20d55___new_Skoda-Octavia-5.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>173</xmin>
+      <ymin>199</ymin>
+      <xmax>259</xmax>
+      <ymax>238</ymax>
+    </bndbox>
+  </object>
+</annotation>

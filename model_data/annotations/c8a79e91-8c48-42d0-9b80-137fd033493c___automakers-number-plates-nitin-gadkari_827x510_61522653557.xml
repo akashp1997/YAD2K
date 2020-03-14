@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/c8a79e91-8c48-42d0-9b80-137fd033493c___automakers-number-plates-nitin-gadkari_827x510_61522653557.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>c8a79e91-8c48-42d0-9b80-137fd033493c___automakers-number-plates-nitin-gadkari_827x510_61522653557.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>58</xmin>
+      <ymin>150</ymin>
+      <xmax>171</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+</annotation>

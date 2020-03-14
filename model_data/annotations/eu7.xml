@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/eu7.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>eu7.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>848</xmin>
+      <ymin>954</ymin>
+      <xmax>1191</xmax>
+      <ymax>1033</ymax>
+    </bndbox>
+  </object>
+</annotation>

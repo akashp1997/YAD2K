@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/6f78077e-a3a1-4fb9-89ba-5870d75ccdb8___Innova_Crysta_Car_Euro_number_Plates.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>6f78077e-a3a1-4fb9-89ba-5870d75ccdb8___Innova_Crysta_Car_Euro_number_Plates.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>156</xmin>
+      <ymin>97</ymin>
+      <xmax>299</xmax>
+      <ymax>154</ymax>
+    </bndbox>
+  </object>
+</annotation>

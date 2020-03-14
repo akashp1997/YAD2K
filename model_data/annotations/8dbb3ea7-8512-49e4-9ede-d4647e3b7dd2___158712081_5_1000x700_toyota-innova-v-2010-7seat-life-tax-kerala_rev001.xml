@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/8dbb3ea7-8512-49e4-9ede-d4647e3b7dd2___158712081_5_1000x700_toyota-innova-v-2010-7seat-life-tax-kerala_rev001.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>8dbb3ea7-8512-49e4-9ede-d4647e3b7dd2___158712081_5_1000x700_toyota-innova-v-2010-7seat-life-tax-kerala_rev001.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>450</xmin>
+      <ymin>277</ymin>
+      <xmax>568</xmax>
+      <ymax>356</ymax>
+    </bndbox>
+  </object>
+</annotation>

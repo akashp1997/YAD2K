@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/a1928183-9ebe-40f0-9a84-500aecc61474___2014-Skoda-Superb-facelift-spied-in-India.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>a1928183-9ebe-40f0-9a84-500aecc61474___2014-Skoda-Superb-facelift-spied-in-India.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>407</xmin>
+      <ymin>169</ymin>
+      <xmax>534</xmax>
+      <ymax>214</ymax>
+    </bndbox>
+  </object>
+</annotation>

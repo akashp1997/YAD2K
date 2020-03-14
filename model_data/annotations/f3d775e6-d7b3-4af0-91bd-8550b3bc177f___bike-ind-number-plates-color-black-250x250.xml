@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/f3d775e6-d7b3-4af0-91bd-8550b3bc177f___bike-ind-number-plates-color-black-250x250.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>f3d775e6-d7b3-4af0-91bd-8550b3bc177f___bike-ind-number-plates-color-black-250x250.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>26</xmin>
+      <ymin>64</ymin>
+      <xmax>214</xmax>
+      <ymax>148</ymax>
+    </bndbox>
+  </object>
+</annotation>

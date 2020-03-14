@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/7506a48d-2c70-4b12-b300-463754bc7837___165979d1427773878-new-volkswagen-vento-2016-launched-india-vw-vento-facelift-rear-india-spotted-test.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>7506a48d-2c70-4b12-b300-463754bc7837___165979d1427773878-new-volkswagen-vento-2016-launched-india-vw-vento-facelift-rear-india-spotted-test.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>315</xmin>
+      <ymin>263</ymin>
+      <xmax>544</xmax>
+      <ymax>322</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/b78553c7-977e-49a2-b3d2-42825d83c8b0___1557297d1474517501-toyota-innova-crysta-official-review-20160920_191445.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>b78553c7-977e-49a2-b3d2-42825d83c8b0___1557297d1474517501-toyota-innova-crysta-official-review-20160920_191445.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>49</xmin>
+      <ymin>185</ymin>
+      <xmax>247</xmax>
+      <ymax>294</ymax>
+    </bndbox>
+  </object>
+</annotation>

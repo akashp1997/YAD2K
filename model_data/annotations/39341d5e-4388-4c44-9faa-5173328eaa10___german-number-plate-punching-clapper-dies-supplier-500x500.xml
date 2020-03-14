@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/39341d5e-4388-4c44-9faa-5173328eaa10___german-number-plate-punching-clapper-dies-supplier-500x500.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>39341d5e-4388-4c44-9faa-5173328eaa10___german-number-plate-punching-clapper-dies-supplier-500x500.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>22</xmin>
+      <ymin>50</ymin>
+      <xmax>499</xmax>
+      <ymax>362</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/d48a0a29-8f29-4ced-b395-4c959aec7722___kejriwal.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>d48a0a29-8f29-4ced-b395-4c959aec7722___kejriwal.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>14</xmin>
+      <ymin>13</ymin>
+      <xmax>499</xmax>
+      <ymax>116</ymax>
+    </bndbox>
+  </object>
+</annotation>

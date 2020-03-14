@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/f2169fa5-fd71-4ba9-a2dc-e612784ec853___number2Bplate2Bdesigns2Bindia.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>f2169fa5-fd71-4ba9-a2dc-e612784ec853___number2Bplate2Bdesigns2Bindia.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>18</xmin>
+      <ymin>34</ymin>
+      <xmax>320</xmax>
+      <ymax>158</ymax>
+    </bndbox>
+  </object>
+</annotation>

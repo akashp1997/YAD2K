@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/31847e78-6696-4dc2-be08-cb37d512c576___2010_Maruti_WagonR_Review.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>31847e78-6696-4dc2-be08-cb37d512c576___2010_Maruti_WagonR_Review.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>26</xmin>
+      <ymin>262</ymin>
+      <xmax>164</xmax>
+      <ymax>329</ymax>
+    </bndbox>
+  </object>
+</annotation>

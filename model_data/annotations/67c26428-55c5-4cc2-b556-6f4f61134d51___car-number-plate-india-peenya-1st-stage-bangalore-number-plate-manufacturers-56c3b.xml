@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/67c26428-55c5-4cc2-b556-6f4f61134d51___car-number-plate-india-peenya-1st-stage-bangalore-number-plate-manufacturers-56c3b.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>67c26428-55c5-4cc2-b556-6f4f61134d51___car-number-plate-india-peenya-1st-stage-bangalore-number-plate-manufacturers-56c3b.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>299</xmin>
+      <ymin>190</ymin>
+      <xmax>2342</xmax>
+      <ymax>716</ymax>
+    </bndbox>
+  </object>
+</annotation>

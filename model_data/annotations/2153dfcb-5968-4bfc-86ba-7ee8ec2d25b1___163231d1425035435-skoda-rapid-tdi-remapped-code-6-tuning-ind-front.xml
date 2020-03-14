@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/2153dfcb-5968-4bfc-86ba-7ee8ec2d25b1___163231d1425035435-skoda-rapid-tdi-remapped-code-6-tuning-ind-front.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>2153dfcb-5968-4bfc-86ba-7ee8ec2d25b1___163231d1425035435-skoda-rapid-tdi-remapped-code-6-tuning-ind-front.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>46</xmin>
+      <ymin>349</ymin>
+      <xmax>262</xmax>
+      <ymax>417</ymax>
+    </bndbox>
+  </object>
+</annotation>

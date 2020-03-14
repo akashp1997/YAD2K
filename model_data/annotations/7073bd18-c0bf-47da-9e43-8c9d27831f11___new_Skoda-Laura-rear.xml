@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/7073bd18-c0bf-47da-9e43-8c9d27831f11___new_Skoda-Laura-rear.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>7073bd18-c0bf-47da-9e43-8c9d27831f11___new_Skoda-Laura-rear.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>184</xmin>
+      <ymin>151</ymin>
+      <xmax>308</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+</annotation>

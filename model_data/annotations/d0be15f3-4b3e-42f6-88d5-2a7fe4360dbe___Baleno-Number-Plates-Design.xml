@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/d0be15f3-4b3e-42f6-88d5-2a7fe4360dbe___Baleno-Number-Plates-Design.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>d0be15f3-4b3e-42f6-88d5-2a7fe4360dbe___Baleno-Number-Plates-Design.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>302</xmin>
+      <ymin>420</ymin>
+      <xmax>671</xmax>
+      <ymax>534</ymax>
+    </bndbox>
+  </object>
+</annotation>

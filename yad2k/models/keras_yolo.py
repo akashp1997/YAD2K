@@ -3,10 +3,9 @@ import sys
 
 import numpy as np
 import tensorflow as tf
-from keras import backend as K
-from keras.layers import Lambda
-from keras.layers.merge import concatenate
-from keras.models import Model
+from tensorflow.keras import backend as K
+from tensorflow.keras.layers import Lambda, concatenate
+from tensorflow.keras.models import Model
 
 from ..utils import compose
 from .keras_darknet19 import (DarknetConv2D, DarknetConv2D_BN_Leaky,
@@ -29,7 +28,7 @@ def space_to_depth_x2(x):
     # Import currently required to make Lambda work.
     # See: https://github.com/fchollet/keras/issues/5088#issuecomment-273851273
     import tensorflow as tf
-    return tf.space_to_depth(x, block_size=2)
+    return tf.nn.space_to_depth(x, block_size=2)
 
 
 def space_to_depth_x2_output_shape(input_shape):

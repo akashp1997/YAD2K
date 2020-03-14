@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/ee7cffcb-cedd-444f-9d3b-42372ba30073___pimlico-plumbers-van-with-personalised-number-plate-london-B8MJAT.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>ee7cffcb-cedd-444f-9d3b-42372ba30073___pimlico-plumbers-van-with-personalised-number-plate-london-B8MJAT.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>396</xmin>
+      <ymin>673</ymin>
+      <xmax>799</xmax>
+      <ymax>783</ymax>
+    </bndbox>
+  </object>
+</annotation>

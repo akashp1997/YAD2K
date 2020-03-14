@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/11ad2f1a-4cbd-4176-a4f5-3be001ec95a3___a4auto.com5140_.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>11ad2f1a-4cbd-4176-a4f5-3be001ec95a3___a4auto.com5140_.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>606</xmin>
+      <ymin>288</ymin>
+      <xmax>782</xmax>
+      <ymax>354</ymax>
+    </bndbox>
+  </object>
+</annotation>

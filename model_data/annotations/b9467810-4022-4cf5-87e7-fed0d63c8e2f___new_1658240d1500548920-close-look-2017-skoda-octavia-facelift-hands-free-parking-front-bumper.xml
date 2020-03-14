@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/b9467810-4022-4cf5-87e7-fed0d63c8e2f___new_1658240d1500548920-close-look-2017-skoda-octavia-facelift-hands-free-parking-front-bumper.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>b9467810-4022-4cf5-87e7-fed0d63c8e2f___new_1658240d1500548920-close-look-2017-skoda-octavia-facelift-hands-free-parking-front-bumper.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>144</xmin>
+      <ymin>113</ymin>
+      <xmax>348</xmax>
+      <ymax>199</ymax>
+    </bndbox>
+  </object>
+</annotation>

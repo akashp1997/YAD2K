@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/fcabfaf7-160a-44bc-a543-9faee4c1c4cd___Honda-Jazz-Front-Number-Plates-Designs.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>fcabfaf7-160a-44bc-a543-9faee4c1c4cd___Honda-Jazz-Front-Number-Plates-Designs.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>48</xmin>
+      <ymin>74</ymin>
+      <xmax>599</xmax>
+      <ymax>188</ymax>
+    </bndbox>
+  </object>
+</annotation>

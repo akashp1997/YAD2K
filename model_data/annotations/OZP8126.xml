@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/OZP8126.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>OZP8126.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>530</xmin>
+      <ymin>733</ymin>
+      <xmax>824</xmax>
+      <ymax>828</ymax>
+    </bndbox>
+  </object>
+</annotation>

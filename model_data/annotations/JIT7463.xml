@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/JIT7463.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>JIT7463.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>581</width>
+    <height>1032</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>215</xmin>
+      <ymin>502</ymin>
+      <xmax>365</xmax>
+      <ymax>550</ymax>
+    </bndbox>
+  </object>
+</annotation>

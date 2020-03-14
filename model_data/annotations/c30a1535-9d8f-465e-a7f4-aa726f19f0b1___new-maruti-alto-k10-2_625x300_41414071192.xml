@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/c30a1535-9d8f-465e-a7f4-aa726f19f0b1___new-maruti-alto-k10-2_625x300_41414071192.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>c30a1535-9d8f-465e-a7f4-aa726f19f0b1___new-maruti-alto-k10-2_625x300_41414071192.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>233</xmin>
+      <ymin>371</ymin>
+      <xmax>427</xmax>
+      <ymax>430</ymax>
+    </bndbox>
+  </object>
+</annotation>

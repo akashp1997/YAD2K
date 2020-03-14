@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/8187c22d-5fa4-4976-9c00-80b2ab66b97d___1290890d1411349145-take-look-number-plate-img_20140903_093600_hdr.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>8187c22d-5fa4-4976-9c00-80b2ab66b97d___1290890d1411349145-take-look-number-plate-img_20140903_093600_hdr.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>99</xmin>
+      <ymin>222</ymin>
+      <xmax>244</xmax>
+      <ymax>336</ymax>
+    </bndbox>
+  </object>
+</annotation>

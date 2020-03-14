@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/319f51dc-9db2-4977-a43d-09561cdd54ab___1415806d1442489743t-raging-red-rover-r3-my-mahindra-scorpio-s10-4x4-nudge-guard.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>319f51dc-9db2-4977-a43d-09561cdd54ab___1415806d1442489743t-raging-red-rover-r3-my-mahindra-scorpio-s10-4x4-nudge-guard.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>273</xmin>
+      <ymin>3</ymin>
+      <xmax>511</xmax>
+      <ymax>66</ymax>
+    </bndbox>
+  </object>
+</annotation>

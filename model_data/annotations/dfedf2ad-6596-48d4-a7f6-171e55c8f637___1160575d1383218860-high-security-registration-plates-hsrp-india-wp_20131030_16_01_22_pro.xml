@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/dfedf2ad-6596-48d4-a7f6-171e55c8f637___1160575d1383218860-high-security-registration-plates-hsrp-india-wp_20131030_16_01_22_pro.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>dfedf2ad-6596-48d4-a7f6-171e55c8f637___1160575d1383218860-high-security-registration-plates-hsrp-india-wp_20131030_16_01_22_pro.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>674</xmin>
+      <ymin>364</ymin>
+      <xmax>957</xmax>
+      <ymax>572</ymax>
+    </bndbox>
+  </object>
+</annotation>

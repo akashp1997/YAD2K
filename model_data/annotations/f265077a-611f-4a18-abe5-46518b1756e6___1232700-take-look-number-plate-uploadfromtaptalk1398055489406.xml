@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/f265077a-611f-4a18-abe5-46518b1756e6___1232700-take-look-number-plate-uploadfromtaptalk1398055489406.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>f265077a-611f-4a18-abe5-46518b1756e6___1232700-take-look-number-plate-uploadfromtaptalk1398055489406.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>348</xmin>
+      <ymin>378</ymin>
+      <xmax>499</xmax>
+      <ymax>437</ymax>
+    </bndbox>
+  </object>
+</annotation>

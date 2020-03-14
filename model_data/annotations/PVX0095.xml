@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/PVX0095.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>PVX0095.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>587</width>
+    <height>471</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>34</xmin>
+      <ymin>115</ymin>
+      <xmax>494</xmax>
+      <ymax>264</ymax>
+    </bndbox>
+  </object>
+</annotation>

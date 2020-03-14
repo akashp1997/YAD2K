@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/7cd80882-17d0-419b-9e50-760c34338038___2017-Volkswagen-Passat-Spotted-Pune.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>7cd80882-17d0-419b-9e50-760c34338038___2017-Volkswagen-Passat-Spotted-Pune.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>382</xmin>
+      <ymin>397</ymin>
+      <xmax>522</xmax>
+      <ymax>442</ymax>
+    </bndbox>
+  </object>
+</annotation>

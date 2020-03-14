@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/1fbaa27e-1ca4-463b-84b4-9ea91b82f27e___166073d1427874044-mahindra-scorpio-2015-review-pictures-scorpio-sting-body-colour-aplique.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>1fbaa27e-1ca4-463b-84b4-9ea91b82f27e___166073d1427874044-mahindra-scorpio-2015-review-pictures-scorpio-sting-body-colour-aplique.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>97</xmin>
+      <ymin>99</ymin>
+      <xmax>195</xmax>
+      <ymax>139</ymax>
+    </bndbox>
+  </object>
+</annotation>

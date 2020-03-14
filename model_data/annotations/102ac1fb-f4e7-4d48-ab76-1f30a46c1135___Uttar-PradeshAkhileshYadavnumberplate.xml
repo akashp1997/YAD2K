@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/102ac1fb-f4e7-4d48-ab76-1f30a46c1135___Uttar-PradeshAkhileshYadavnumberplate.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>102ac1fb-f4e7-4d48-ab76-1f30a46c1135___Uttar-PradeshAkhileshYadavnumberplate.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>112</xmin>
+      <ymin>124</ymin>
+      <xmax>232</xmax>
+      <ymax>194</ymax>
+    </bndbox>
+  </object>
+</annotation>

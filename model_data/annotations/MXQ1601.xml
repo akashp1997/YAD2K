@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/MXQ1601.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>MXQ1601.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>475</xmin>
+      <ymin>891</ymin>
+      <xmax>814</xmax>
+      <ymax>1001</ymax>
+    </bndbox>
+  </object>
+</annotation>

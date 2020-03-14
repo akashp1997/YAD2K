@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/af270103-6ed4-4260-9d01-b8be2e2b9af1___skoda-rapid-1.5-tdi-dsg-review.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>af270103-6ed4-4260-9d01-b8be2e2b9af1___skoda-rapid-1.5-tdi-dsg-review.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>100</xmin>
+      <ymin>148</ymin>
+      <xmax>259</xmax>
+      <ymax>208</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/59a40238-6b01-4bb9-9faf-3b595e67bcb3___3d-font-number-plate-500x500.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>59a40238-6b01-4bb9-9faf-3b595e67bcb3___3d-font-number-plate-500x500.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>163</xmin>
+      <ymin>214</ymin>
+      <xmax>305</xmax>
+      <ymax>261</ymax>
+    </bndbox>
+  </object>
+</annotation>

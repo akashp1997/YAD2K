@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/f8a992cc-a1cc-4d68-88c1-bec1a46fc148___Honda-City-Number-Plates-Design.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>f8a992cc-a1cc-4d68-88c1-bec1a46fc148___Honda-City-Number-Plates-Design.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>186</xmin>
+      <ymin>350</ymin>
+      <xmax>381</xmax>
+      <ymax>418</ymax>
+    </bndbox>
+  </object>
+</annotation>

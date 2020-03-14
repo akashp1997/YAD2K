@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/ae0bb069-0e7e-412a-9473-e8e0d4041cbc___135718d1400912281-skoda-rapid-1-6tdi-cr-mt-elegance-ultima-candy-white-white-monster-_mg_3000comp.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>ae0bb069-0e7e-412a-9473-e8e0d4041cbc___135718d1400912281-skoda-rapid-1-6tdi-cr-mt-elegance-ultima-candy-white-white-monster-_mg_3000comp.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>334</xmin>
+      <ymin>191</ymin>
+      <xmax>433</xmax>
+      <ymax>234</ymax>
+    </bndbox>
+  </object>
+</annotation>

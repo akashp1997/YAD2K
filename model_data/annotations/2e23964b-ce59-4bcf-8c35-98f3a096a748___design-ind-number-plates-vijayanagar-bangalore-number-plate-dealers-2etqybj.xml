@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/2e23964b-ce59-4bcf-8c35-98f3a096a748___design-ind-number-plates-vijayanagar-bangalore-number-plate-dealers-2etqybj.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>2e23964b-ce59-4bcf-8c35-98f3a096a748___design-ind-number-plates-vijayanagar-bangalore-number-plate-dealers-2etqybj.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>12</xmin>
+      <ymin>107</ymin>
+      <xmax>697</xmax>
+      <ymax>400</ymax>
+    </bndbox>
+  </object>
+</annotation>

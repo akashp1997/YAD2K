@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/165eaa92-8e90-44e6-b132-8af462bae0c9___scorpio-rear.JPG</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>165eaa92-8e90-44e6-b132-8af462bae0c9___scorpio-rear.JPG</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>36</xmin>
+      <ymin>122</ymin>
+      <xmax>110</xmax>
+      <ymax>165</ymax>
+    </bndbox>
+  </object>
+</annotation>

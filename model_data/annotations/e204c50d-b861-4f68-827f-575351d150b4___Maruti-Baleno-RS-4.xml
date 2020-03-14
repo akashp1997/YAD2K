@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <path>/content/drive/My Drive/data_csv/images/e204c50d-b861-4f68-827f-575351d150b4___Maruti-Baleno-RS-4.jpg</path>
+  <folder>/content/drive/My Drive/data_csv/images/</folder>
+  <filename>e204c50d-b861-4f68-827f-575351d150b4___Maruti-Baleno-RS-4.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>806</width>
+    <height>466</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>license_plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>24</xmin>
+      <ymin>207</ymin>
+      <xmax>148</xmax>
+      <ymax>253</ymax>
+    </bndbox>
+  </object>
+</annotation>
